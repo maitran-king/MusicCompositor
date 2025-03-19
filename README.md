@@ -15,7 +15,7 @@ This project is an **interactive music composition system** that allows users to
 - **jFugue** (Music programming library)  
 - **JUnit** (For unit testing)
 
-  ## 🎯 How It Works  
+## 🎯 How It Works  
 1️⃣ **Launch the Composer:**  
 Run the `Composer.java` file, which presents an interactive menu for composing music.  
 
